@@ -62,4 +62,4 @@ By implementing these strategies, the Vrinda Store can capitalize on its strengt
 ## Tools Used
 
 * Microsoft Excel (Pivot Tables, Charts, and Dashboards)
-* Data Cleaning and Analysis Functions (e.g., IF, SORT, UNIQUE)
+* Data Cleaning and Analysis Functions (e.g., IF, SORT, TEXT)
